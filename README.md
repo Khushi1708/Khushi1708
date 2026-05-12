@@ -1,5 +1,5 @@
-# Hi 👋, I'm Khushi
-
+# Hey
+I'm Khushi
 💻 BTech CSE Student  
 🚀 Python Developer | AI & NLP Enthusiast  
 🔐 Interested in Cybersecurity, Machine Learning & Full Stack Development  
