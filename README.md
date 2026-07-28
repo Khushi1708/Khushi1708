@@ -47,7 +47,7 @@ Python project for sentiment analysis and intelligent text processing.
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/Khushi1708
-- LinkedIn: https://www.linkedin.com/in/khushi-aggarwal-7b9aa6289/
+- LinkedIn: www.linkedin.com/in/khushi-aggarwal77
 - Email: happinessaggarwal@gmail.com
 
 
